@@ -1,0 +1,12 @@
+[submodule "model"]
+	path = model
+	url = https://github.com/simeonschuez/Adaptive.git
+[submodule "rsa"]
+	path = rsa
+	url = https://github.com/simeonschuez/Recurrent-RSA.git
+[submodule "evaluate/MCN"]
+	path = evaluate/MCN
+	url = https://github.com/simeonschuez/MCN.git
+[submodule "evaluate/refer"]
+	path = evaluate/refer
+	url = https://github.com/simeonschuez/refer.git
